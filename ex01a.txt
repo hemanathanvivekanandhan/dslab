@@ -1,0 +1,14 @@
+ds-lab@ds-lab-System-Product-Name:~/dslab_421125106043/ex01$ gcc ex01a.c
+ds-lab@ds-lab-System-Product-Name:~/dslab_421125106043/ex01$ ./a.out
+
+Array operation Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Element
+6. Exit
+Enter your choice: 6
+ds-lab@ds-lab-System-Product-Name:~/dslab_421125106043/ex01a$ 
+
+
